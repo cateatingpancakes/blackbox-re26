@@ -1,3 +1,0 @@
-- Autorii au facut random sample pentru intrari dintr-un dataset mai mare, facem si noi cu acelasi numar de samples.
-- Nu o sa obtinem identic aceleasi sample-uri daca nu stim cu ce seed au luat.
-- pt. datatrove tb. install cu --no-deps ca altfel nu-i convine din cauza la huggingface hub / transformers
