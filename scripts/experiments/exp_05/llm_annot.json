@@ -1,0 +1,639 @@
+{
+  "books_dir_0.csv": [
+    "ebook copyright notices",
+    "grotesque facial expressions"
+  ],
+  "books_dir_1.csv": [
+    "dialogue attribution"
+  ],
+  "books_dir_10.csv": [
+    "dialogue and speech"
+  ],
+  "books_dir_11.csv": [
+    "interrupted dialogue",
+    "speech attribution"
+  ],
+  "books_dir_12.csv": [
+    "character about to speak",
+    "speech attribution"
+  ],
+  "books_dir_13.csv": [
+    "imperatives"
+  ],
+  "books_dir_14.csv": [
+    "questions",
+    "verbatim repetition"
+  ],
+  "books_dir_15.csv": [
+    "gestures accompanying speech",
+    "continuing an action"
+  ],
+  "books_dir_16.csv": [
+    "character entrances into a scene"
+  ],
+  "books_dir_17.csv": [
+    "sentence fragments"
+  ],
+  "books_dir_18.csv": [
+    "ebook copyright notices",
+    "subject-dropped fragments"
+  ],
+  "books_dir_19.csv": [
+    "French language"
+  ],
+  "books_dir_2.csv": [
+    "sentence fragments",
+    "verb-initial fragments"
+  ],
+  "books_dir_20.csv": [
+    "facial expressions and speech mannerisms"
+  ],
+  "books_dir_21.csv": [
+    "corrupted text (letter substitution)"
+  ],
+  "books_dir_22.csv": [
+    "chapter headings"
+  ],
+  "books_dir_23.csv": [
+    "character reflection and intent"
+  ],
+  "books_dir_24.csv": [
+    "ebook copyright notices"
+  ],
+  "books_dir_25.csv": [
+    "dialogue attribution"
+  ],
+  "books_dir_26.csv": [
+    "verbatim repetition",
+    "physical description of a man"
+  ],
+  "books_dir_27.csv": [
+    "negation (didn't/couldn't)"
+  ],
+  "books_dir_28.csv": [],
+  "books_dir_29.csv": [
+    "violence and combat"
+  ],
+  "books_dir_3.csv": [
+    "violence and physical peril"
+  ],
+  "books_dir_30.csv": [
+    "quoted dialogue with attribution"
+  ],
+  "books_dir_31.csv": [
+    "nature and scenery descriptions"
+  ],
+  "books_dir_32.csv": [
+    "body and sensual descriptions"
+  ],
+  "books_dir_4.csv": [],
+  "books_dir_5.csv": [
+    "brief speech attributions"
+  ],
+  "books_dir_6.csv": [
+    "fantasy and science fiction"
+  ],
+  "books_dir_7.csv": [
+    "physical intimacy and violence"
+  ],
+  "books_dir_8.csv": [
+    "colloquial first-person narration"
+  ],
+  "books_dir_9.csv": [
+    "quoted dialogue",
+    "archaic speech"
+  ],
+  "books_neur_107.csv": [
+    "gesture then continued speech"
+  ],
+  "books_neur_187.csv": [
+    "grotesque physical mannerisms"
+  ],
+  "books_neur_194.csv": [
+    "questions"
+  ],
+  "books_neur_206.csv": [
+    "pausing before speaking"
+  ],
+  "books_neur_21.csv": [
+    "continuing to speak"
+  ],
+  "books_neur_234.csv": [
+    "resuming speech after a pause"
+  ],
+  "books_neur_26.csv": [
+    "quoted questions"
+  ],
+  "books_neur_310.csv": [
+    "an unexpected arrival"
+  ],
+  "books_neur_319.csv": [
+    "approaching and greeting someone"
+  ],
+  "books_neur_352.csv": [
+    "scene-setting fragments"
+  ],
+  "books_neur_381.csv": [
+    "ebook copyright notices"
+  ],
+  "books_neur_412.csv": [
+    "speech attribution"
+  ],
+  "books_neur_418.csv": [
+    "sentence fragments"
+  ],
+  "books_neur_489.csv": [
+    "physical gestures toward another character"
+  ],
+  "books_neur_563.csv": [
+    "handing over objects"
+  ],
+  "books_neur_576.csv": [],
+  "books_neur_617.csv": [
+    "whimsical giggling and music"
+  ],
+  "books_neur_626.csv": [
+    "fantasy dialogue attribution"
+  ],
+  "books_neur_627.csv": [
+    "food and eating"
+  ],
+  "books_neur_641.csv": [
+    "ebook copyright notices"
+  ],
+  "books_neur_65.csv": [
+    "speech attribution"
+  ],
+  "books_neur_655.csv": [
+    "whimsical poetic imagery"
+  ],
+  "books_neur_661.csv": [
+    "ebook copyright notices"
+  ],
+  "books_neur_709.csv": [
+    "intense physical action"
+  ],
+  "books_neur_712.csv": [
+    "dialogue attribution"
+  ],
+  "books_rand_0.csv": [],
+  "books_rand_1.csv": [],
+  "books_rand_2.csv": [],
+  "books_rand_3.csv": [],
+  "books_rand_4.csv": [],
+  "books_rand_5.csv": [],
+  "books_rand_6.csv": [],
+  "qnli_dir_0.csv": [
+    "numerical statistics"
+  ],
+  "qnli_dir_1.csv": [
+    "academic theory and intellectual history"
+  ],
+  "qnli_dir_10.csv": [
+    "politics and governance"
+  ],
+  "qnli_dir_11.csv": [
+    "quoted historical/political writing"
+  ],
+  "qnli_dir_12.csv": [
+    "quotations from texts"
+  ],
+  "qnli_dir_13.csv": [
+    "numerical facts"
+  ],
+  "qnli_dir_14.csv": [
+    "geography and places"
+  ],
+  "qnli_dir_15.csv": [
+    "population density statistics"
+  ],
+  "qnli_dir_16.csv": [
+    "dates and time periods"
+  ],
+  "qnli_dir_17.csv": [
+    "birth and parentage of notable people"
+  ],
+  "qnli_dir_18.csv": [
+    "television broadcasting"
+  ],
+  "qnli_dir_19.csv": [
+    "politics and media"
+  ],
+  "qnli_dir_2.csv": [
+    "attributed quotations"
+  ],
+  "qnli_dir_20.csv": [
+    "computing and software"
+  ],
+  "qnli_dir_21.csv": [
+    "definitional opening sentences"
+  ],
+  "qnli_dir_22.csv": [
+    "demographic statistics"
+  ],
+  "qnli_dir_23.csv": [
+    "public infrastructure and finance"
+  ],
+  "qnli_dir_24.csv": [],
+  "qnli_dir_25.csv": [
+    "quoted statements"
+  ],
+  "qnli_dir_26.csv": [],
+  "qnli_dir_27.csv": [
+    "linguistics and phonology"
+  ],
+  "qnli_dir_28.csv": [
+    "governments and international affairs"
+  ],
+  "qnli_dir_29.csv": [
+    "biology and mechanisms"
+  ],
+  "qnli_dir_3.csv": [
+    "public health and social statistics"
+  ],
+  "qnli_dir_30.csv": [],
+  "qnli_dir_31.csv": [
+    "climate and weather"
+  ],
+  "qnli_dir_32.csv": [
+    "classical music and composers"
+  ],
+  "qnli_dir_4.csv": [
+    "median income statistics"
+  ],
+  "qnli_dir_5.csv": [
+    "birth and biographical facts"
+  ],
+  "qnli_dir_6.csv": [
+    "philosophy and theology"
+  ],
+  "qnli_dir_7.csv": [
+    "language and historical events"
+  ],
+  "qnli_dir_8.csv": [
+    "US politics and representation"
+  ],
+  "qnli_dir_9.csv": [
+    "executions and political imprisonment"
+  ],
+  "qnli_neur_107.csv": [
+    "definitional celebrity biographies"
+  ],
+  "qnli_neur_187.csv": [
+    "quoted speech"
+  ],
+  "qnli_neur_194.csv": [
+    "military history"
+  ],
+  "qnli_neur_206.csv": [
+    "buildings and construction"
+  ],
+  "qnli_neur_21.csv": [
+    "quoted celebrity statements"
+  ],
+  "qnli_neur_234.csv": [
+    "definitional opening sentences"
+  ],
+  "qnli_neur_26.csv": [
+    "war and politics"
+  ],
+  "qnli_neur_310.csv": [
+    "definitional openings with pronunciation"
+  ],
+  "qnli_neur_319.csv": [
+    "musicians and public figures"
+  ],
+  "qnli_neur_352.csv": [
+    "historical events"
+  ],
+  "qnli_neur_381.csv": [
+    "education and employment statistics"
+  ],
+  "qnli_neur_412.csv": [
+    "quoted letters and statements"
+  ],
+  "qnli_neur_418.csv": [],
+  "qnli_neur_489.csv": [],
+  "qnli_neur_563.csv": [
+    "classification and genetics"
+  ],
+  "qnli_neur_576.csv": [],
+  "qnli_neur_617.csv": [
+    "art history and depiction"
+  ],
+  "qnli_neur_626.csv": [
+    "climate and landscape"
+  ],
+  "qnli_neur_627.csv": [
+    "currency and money"
+  ],
+  "qnli_neur_641.csv": [],
+  "qnli_neur_65.csv": [
+    "borders and boundaries"
+  ],
+  "qnli_neur_655.csv": [],
+  "qnli_neur_661.csv": [
+    "age distribution statistics"
+  ],
+  "qnli_neur_709.csv": [
+    "phonetics and mechanisms"
+  ],
+  "qnli_neur_712.csv": [
+    "elections and government"
+  ],
+  "qnli_rand_0.csv": [],
+  "qnli_rand_1.csv": [],
+  "qnli_rand_2.csv": [],
+  "qnli_rand_3.csv": [],
+  "qnli_rand_4.csv": [],
+  "qnli_rand_5.csv": [],
+  "qnli_rand_6.csv": [],
+  "qqp_dir_0.csv": [
+    "long detailed questions"
+  ],
+  "qqp_dir_1.csv": [
+    "science questions"
+  ],
+  "qqp_dir_10.csv": [
+    "political and opinion questions"
+  ],
+  "qqp_dir_11.csv": [
+    "personal advice questions"
+  ],
+  "qqp_dir_12.csv": [],
+  "qqp_dir_13.csv": [
+    "superlative 'which is best' questions"
+  ],
+  "qqp_dir_14.csv": [
+    "language and translation questions"
+  ],
+  "qqp_dir_15.csv": [],
+  "qqp_dir_16.csv": [
+    "terse questions"
+  ],
+  "qqp_dir_17.csv": [
+    "body and fitness questions"
+  ],
+  "qqp_dir_18.csv": [],
+  "qqp_dir_19.csv": [
+    "math and physics problems"
+  ],
+  "qqp_dir_2.csv": [
+    "opinion and 'why' questions"
+  ],
+  "qqp_dir_20.csv": [
+    "technical how-to questions"
+  ],
+  "qqp_dir_21.csv": [
+    "very short questions"
+  ],
+  "qqp_dir_22.csv": [
+    "personal experience questions"
+  ],
+  "qqp_dir_23.csv": [
+    "personal finance and life dilemmas"
+  ],
+  "qqp_dir_24.csv": [
+    "speculative questions"
+  ],
+  "qqp_dir_25.csv": [],
+  "qqp_dir_26.csv": [],
+  "qqp_dir_27.csv": [],
+  "qqp_dir_28.csv": [
+    "best gadget/smartphone questions"
+  ],
+  "qqp_dir_29.csv": [],
+  "qqp_dir_3.csv": [
+    "topic-prefixed questions"
+  ],
+  "qqp_dir_30.csv": [
+    "TV and film plot questions"
+  ],
+  "qqp_dir_31.csv": [
+    "education degree fragments"
+  ],
+  "qqp_dir_32.csv": [
+    "science and math problems"
+  ],
+  "qqp_dir_4.csv": [],
+  "qqp_dir_5.csv": [],
+  "qqp_dir_6.csv": [
+    "physics and energy questions"
+  ],
+  "qqp_dir_7.csv": [
+    "language-learning questions"
+  ],
+  "qqp_dir_8.csv": [
+    "relationship anxieties"
+  ],
+  "qqp_dir_9.csv": [
+    "religion and politics questions"
+  ],
+  "qqp_neur_107.csv": [
+    "film and TV trivia"
+  ],
+  "qqp_neur_187.csv": [],
+  "qqp_neur_194.csv": [
+    "questions about India"
+  ],
+  "qqp_neur_206.csv": [],
+  "qqp_neur_21.csv": [
+    "conceptual explanation questions"
+  ],
+  "qqp_neur_234.csv": [
+    "technical and math notation"
+  ],
+  "qqp_neur_26.csv": [
+    "political 'should' questions"
+  ],
+  "qqp_neur_310.csv": [],
+  "qqp_neur_319.csv": [],
+  "qqp_neur_352.csv": [],
+  "qqp_neur_381.csv": [
+    "short questions"
+  ],
+  "qqp_neur_412.csv": [
+    "first-person help requests"
+  ],
+  "qqp_neur_418.csv": [],
+  "qqp_neur_489.csv": [
+    "yes/no trivia questions"
+  ],
+  "qqp_neur_563.csv": [
+    "gender and identity questions"
+  ],
+  "qqp_neur_576.csv": [],
+  "qqp_neur_617.csv": [
+    "long personal confessions"
+  ],
+  "qqp_neur_626.csv": [
+    "personal grievance questions"
+  ],
+  "qqp_neur_627.csv": [
+    "physics and religion questions"
+  ],
+  "qqp_neur_641.csv": [
+    "age-stated personal questions"
+  ],
+  "qqp_neur_65.csv": [
+    "math proof questions"
+  ],
+  "qqp_neur_655.csv": [
+    "Indian politics and admissions"
+  ],
+  "qqp_neur_661.csv": [],
+  "qqp_neur_709.csv": [],
+  "qqp_neur_712.csv": [
+    "prediction questions"
+  ],
+  "qqp_rand_0.csv": [],
+  "qqp_rand_1.csv": [],
+  "qqp_rand_2.csv": [],
+  "qqp_rand_3.csv": [],
+  "qqp_rand_4.csv": [],
+  "qqp_rand_5.csv": [],
+  "qqp_rand_6.csv": [],
+  "qqp_rand_7.csv": [],
+  "wiki_dir_0.csv": [
+    "numerical statistics",
+    "repeated minor-planet naming text"
+  ],
+  "wiki_dir_1.csv": [
+    "motor racing incidents"
+  ],
+  "wiki_dir_10.csv": [
+    "military history and quotations"
+  ],
+  "wiki_dir_11.csv": [
+    "per capita income statistics"
+  ],
+  "wiki_dir_12.csv": [],
+  "wiki_dir_13.csv": [
+    "bird and plant descriptions"
+  ],
+  "wiki_dir_14.csv": [
+    "town amenities and tourism"
+  ],
+  "wiki_dir_15.csv": [
+    "births and orbital parameters"
+  ],
+  "wiki_dir_16.csv": [
+    "dated biographical events"
+  ],
+  "wiki_dir_17.csv": [
+    "birth and parentage biographies"
+  ],
+  "wiki_dir_18.csv": [],
+  "wiki_dir_19.csv": [],
+  "wiki_dir_2.csv": [
+    "rail and train services"
+  ],
+  "wiki_dir_20.csv": [
+    "tennis match results"
+  ],
+  "wiki_dir_21.csv": [],
+  "wiki_dir_22.csv": [],
+  "wiki_dir_23.csv": [],
+  "wiki_dir_24.csv": [
+    "household and age statistics"
+  ],
+  "wiki_dir_25.csv": [
+    "quotations from artists"
+  ],
+  "wiki_dir_26.csv": [
+    "parish council responsibilities",
+    "repeated verbatim text"
+  ],
+  "wiki_dir_27.csv": [],
+  "wiki_dir_28.csv": [
+    "football match reports"
+  ],
+  "wiki_dir_29.csv": [],
+  "wiki_dir_3.csv": [
+    "wildlife and nature"
+  ],
+  "wiki_dir_30.csv": [],
+  "wiki_dir_31.csv": [
+    "horse racing results"
+  ],
+  "wiki_dir_32.csv": [],
+  "wiki_dir_4.csv": [
+    "median income statistics"
+  ],
+  "wiki_dir_5.csv": [
+    "birth statements"
+  ],
+  "wiki_dir_6.csv": [
+    "philosophy and theology"
+  ],
+  "wiki_dir_7.csv": [
+    "historical events and battles"
+  ],
+  "wiki_dir_8.csv": [],
+  "wiki_dir_9.csv": [],
+  "wiki_neur_107.csv": [
+    "one-line athlete/actor biographies"
+  ],
+  "wiki_neur_187.csv": [
+    "quoted speech"
+  ],
+  "wiki_neur_194.csv": [
+    "regional and church history"
+  ],
+  "wiki_neur_206.csv": [
+    "parishes and local churches"
+  ],
+  "wiki_neur_21.csv": [
+    "quoted reviews and interviews"
+  ],
+  "wiki_neur_234.csv": [
+    "one-line place and person stubs"
+  ],
+  "wiki_neur_26.csv": [],
+  "wiki_neur_310.csv": [
+    "birth-and-origin biographies"
+  ],
+  "wiki_neur_319.csv": [
+    "births and biographies"
+  ],
+  "wiki_neur_352.csv": [],
+  "wiki_neur_381.csv": [
+    "employment and education statistics"
+  ],
+  "wiki_neur_412.csv": [
+    "quoted statements"
+  ],
+  "wiki_neur_418.csv": [
+    "botanical descriptions"
+  ],
+  "wiki_neur_489.csv": [],
+  "wiki_neur_563.csv": [],
+  "wiki_neur_576.csv": [
+    "Senate confirmation statements"
+  ],
+  "wiki_neur_617.csv": [
+    "professional wrestling descriptions",
+    "repeated verbatim text"
+  ],
+  "wiki_neur_626.csv": [
+    "rivers and catchments"
+  ],
+  "wiki_neur_627.csv": [],
+  "wiki_neur_641.csv": [],
+  "wiki_neur_65.csv": [],
+  "wiki_neur_655.csv": [],
+  "wiki_neur_661.csv": [
+    "household and age statistics"
+  ],
+  "wiki_neur_709.csv": [
+    "detailed physical descriptions"
+  ],
+  "wiki_neur_712.csv": [],
+  "wiki_rand_0.csv": [],
+  "wiki_rand_1.csv": [],
+  "wiki_rand_2.csv": [],
+  "wiki_rand_3.csv": [],
+  "wiki_rand_4.csv": [],
+  "wiki_rand_5.csv": [],
+  "wiki_rand_6.csv": []
+}

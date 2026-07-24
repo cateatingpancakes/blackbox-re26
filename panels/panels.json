@@ -1,0 +1,857 @@
+{
+    "books_dir_0.csv": [
+        "copyright text",
+        "ugliness"
+    ],
+    "books_dir_1.csv": [
+        "simultaneous actions"
+    ],
+    "books_dir_10.csv": [
+        "danger"
+    ],
+    "books_dir_11.csv": [
+        "quoted speech"
+    ],
+    "books_dir_12.csv": [],
+    "books_dir_13.csv": [
+        "imperatives",
+        "short sentences"
+    ],
+    "books_dir_14.csv": [
+        "rhetorical questions"
+    ],
+    "books_dir_15.csv": [
+        "coordinated sequence of events"
+    ],
+    "books_dir_16.csv": [
+        "authority",
+        "bars",
+        "chapter delimiter"
+    ],
+    "books_dir_17.csv": [],
+    "books_dir_18.csv": [
+        "copyright text"
+    ],
+    "books_dir_19.csv": [
+        "french"
+    ],
+    "books_dir_2.csv": [
+        "food"
+    ],
+    "books_dir_20.csv": [
+        "parts of the face"
+    ],
+    "books_dir_21.csv": [
+        "replaced letters"
+    ],
+    "books_dir_22.csv": [
+        "chapters"
+    ],
+    "books_dir_23.csv": [
+        "perceptions"
+    ],
+    "books_dir_24.csv": [
+        "copyright text",
+        "natural calamity"
+    ],
+    "books_dir_25.csv": [
+        "coordinating conjunctions",
+        "the word 'and'"
+    ],
+    "books_dir_26.csv": [
+        "physical description",
+        "short sentences"
+    ],
+    "books_dir_27.csv": [
+        "negation",
+        "the word 'with'"
+    ],
+    "books_dir_28.csv": [
+        "names of people",
+        "countries"
+    ],
+    "books_dir_29.csv": [
+        "violence"
+    ],
+    "books_dir_3.csv": [
+        "violence"
+    ],
+    "books_dir_30.csv": [
+        "quoted speech",
+        "questions"
+    ],
+    "books_dir_31.csv": [
+        "enumeration"
+    ],
+    "books_dir_32.csv": [
+        "body parts"
+    ],
+    "books_dir_4.csv": [],
+    "books_dir_5.csv": [
+        "quoted speech",
+        "gestures"
+    ],
+    "books_dir_6.csv": [
+        "fantasy"
+    ],
+    "books_dir_7.csv": [
+        "violence",
+        "sex"
+    ],
+    "books_dir_8.csv": [
+        "word repetition",
+        "failure"
+    ],
+    "books_dir_9.csv": [
+        "quoted speech"
+    ],
+    "books_neur_107.csv": [
+        "gestures",
+        "looking"
+    ],
+    "books_neur_187.csv": [
+        "reported speech",
+        "rapid actions"
+    ],
+    "books_neur_194.csv": [
+        "questions"
+    ],
+    "books_neur_206.csv": [
+        "names of people"
+    ],
+    "books_neur_21.csv": [
+        "commas",
+        "speech verbs",
+        "names of people"
+    ],
+    "books_neur_234.csv": [
+        "continuing an action"
+    ],
+    "books_neur_26.csv": [
+        "begins with quotation marks",
+        "rhetorical questions",
+        "negative attitude"
+    ],
+    "books_neur_310.csv": [
+        "completing an action",
+        "first-person narration"
+    ],
+    "books_neur_319.csv": [
+        "names of people",
+        "coordinated sequence of events"
+    ],
+    "books_neur_352.csv": [
+        "short sentences",
+        "nature",
+        "social gatherings"
+    ],
+    "books_neur_381.csv": [
+        "copyright text"
+    ],
+    "books_neur_412.csv": [
+        "men",
+        "accomodation",
+        "appositions"
+    ],
+    "books_neur_418.csv": [
+        "latin",
+        "short sentences"
+    ],
+    "books_neur_489.csv": [
+        "unusual names of people",
+        "violence"
+    ],
+    "books_neur_563.csv": [
+        "names of people",
+        "deliberation",
+        "packages"
+    ],
+    "books_neur_576.csv": [
+        "quoted speech",
+        "stopping movement"
+    ],
+    "books_neur_617.csv": [
+        "water",
+        "the word 'giggle'",
+        "light"
+    ],
+    "books_neur_626.csv": [
+        "unusual names"
+    ],
+    "books_neur_627.csv": [
+        "short sentences",
+        "enumeration"
+    ],
+    "books_neur_641.csv": [
+        "copyright text"
+    ],
+    "books_neur_65.csv": [
+        "quoted speech"
+    ],
+    "books_neur_655.csv": [],
+    "books_neur_661.csv": [
+        "copyright text"
+    ],
+    "books_neur_709.csv": [
+        "manner of motion verbs",
+        "sex"
+    ],
+    "books_neur_712.csv": [
+        "multiple named people",
+        "quoted speech"
+    ],
+    "books_rand_0.csv": [],
+    "books_rand_1.csv": [],
+    "books_rand_2.csv": [
+        "comma after the first few words"
+    ],
+    "books_rand_3.csv": [],
+    "books_rand_4.csv": [
+        "begins with quotation marks"
+    ],
+    "books_rand_5.csv": [],
+    "books_rand_6.csv": [],
+    "qnli_dir_0.csv": [
+        "numbers",
+        "countries",
+        "commerce"
+    ],
+    "qnli_dir_1.csv": [
+        "etymology",
+        "contrast",
+        "duality"
+    ],
+    "qnli_dir_10.csv": [
+        "history"
+    ],
+    "qnli_dir_11.csv": [
+        "legislation",
+        "revolutions",
+        "religion"
+    ],
+    "qnli_dir_12.csv": [
+        "enclosing by quotes or brackets"
+    ],
+    "qnli_dir_13.csv": [
+        "biology",
+        "categories"
+    ],
+    "qnli_dir_14.csv": [
+    ],
+    "qnli_dir_15.csv": [
+        "population density",
+        "reviews"
+    ],
+    "qnli_dir_16.csv": [
+    ],
+    "qnli_dir_17.csv": [
+        "reported speech",
+        "biography"
+    ],
+    "qnli_dir_18.csv": [
+        "television"
+    ],
+    "qnli_dir_19.csv": [
+        "politics",
+        "war"
+    ],
+    "qnli_dir_2.csv": [],
+    "qnli_dir_20.csv": [
+        "computer science"
+    ],
+    "qnli_dir_21.csv": [
+        "biography",
+        "technology",
+        "explanatory parantheses",
+        "spelling"
+    ],
+    "qnli_dir_22.csv": [
+        "census data"
+    ],
+    "qnli_dir_23.csv": [
+        "numerical data",
+        "resources"
+    ],
+    "qnli_dir_24.csv": [
+        "human biology and health"
+    ],
+    "qnli_dir_25.csv": [
+        "enumeration",
+        "quoted speech"
+    ],
+    "qnli_dir_26.csv": [
+        "beverages",
+        "forms of storage"
+    ],
+    "qnli_dir_27.csv": [
+        "phonetics"
+    ],
+    "qnli_dir_28.csv": [
+        "politics"
+    ],
+    "qnli_dir_29.csv": [
+        "biology",
+        "nature",
+        "technology"
+    ],
+    "qnli_dir_3.csv": [
+        "disease",
+        "abuse",
+        "biology"
+    ],
+    "qnli_dir_30.csv": [
+        "difficult sentences"
+    ],
+    "qnli_dir_31.csv": [
+        "numerical data",
+        "nature"
+    ],
+    "qnli_dir_32.csv": [
+        "music",
+        "physics"
+    ],
+    "qnli_dir_4.csv": [
+        "dollar symbol",
+        "mathematical signs"
+    ],
+    "qnli_dir_5.csv": [
+        "numerical data",
+        "numbers",
+        "specified time"
+    ],
+    "qnli_dir_6.csv": [
+        "religion",
+        "philosophy"
+    ],
+    "qnli_dir_7.csv": [
+        "language",
+        "etymology",
+        "numerical data",
+        "religion"
+    ],
+    "qnli_dir_8.csv": [
+        "locations in the united states",
+        "united states politics"
+    ],
+    "qnli_dir_9.csv": [
+        "history",
+        "politics"
+    ],
+    "qnli_neur_107.csv": [
+        "spelling",
+        "biography",
+        "numerical data"
+    ],
+    "qnli_neur_187.csv": [
+        "quoted speech",
+        "parantheses",
+        "geography"
+    ],
+    "qnli_neur_194.csv": [
+        "long sentences",
+        "science",
+        "military history"
+    ],
+    "qnli_neur_206.csv": [
+        "specified time",
+        "construction"
+    ],
+    "qnli_neur_21.csv": [
+        "quoted speech",
+        "music"
+    ],
+    "qnli_neur_234.csv": [
+        "statements of fact",
+        "singers",
+        "parentheses",
+        "summarization"
+    ],
+    "qnli_neur_26.csv": [
+        "world war 2 history"
+    ],
+    "qnli_neur_310.csv": [
+        "ipa spelling",
+        "parentheses",
+        "summarization"
+    ],
+    "qnli_neur_319.csv": [
+        "music",
+        "biography"
+    ],
+    "qnli_neur_352.csv": [
+        "revolutions",
+        "ancient history"
+    ],
+    "qnli_neur_381.csv": [
+        "numerical data",
+        "language",
+        "administration"
+    ],
+    "qnli_neur_412.csv": [
+        "chopin"
+    ],
+    "qnli_neur_418.csv": [
+    ],
+    "qnli_neur_489.csv": [
+        "politics",
+        "history"
+    ],
+    "qnli_neur_563.csv": [
+        "biology",
+        "categories"
+    ],
+    "qnli_neur_576.csv": [
+        "economy",
+        "government"
+    ],
+    "qnli_neur_617.csv": [
+        "art"
+    ],
+    "qnli_neur_626.csv": [
+        "nature",
+        "geography"
+    ],
+    "qnli_neur_627.csv": [
+        "economics",
+        "administration"
+    ],
+    "qnli_neur_641.csv": [],
+    "qnli_neur_65.csv": [
+        "nature",
+        "geography",
+        "numbers",
+        "mathematics"
+    ],
+    "qnli_neur_655.csv": [
+        "physics",
+        "education"
+    ],
+    "qnli_neur_661.csv": [
+        "numerical data",
+        "numbers"
+    ],
+    "qnli_neur_709.csv": [
+        "phonetics",
+        "technology"
+    ],
+    "qnli_neur_712.csv": [
+        "parentheses",
+        "democracy"
+    ],
+    "qnli_rand_0.csv": [
+        "administrative territories",
+        "parentheses"
+    ],
+    "qnli_rand_1.csv": [],
+    "qnli_rand_2.csv": [],
+    "qnli_rand_3.csv": [],
+    "qnli_rand_4.csv": [],
+    "qnli_rand_5.csv": [],
+    "qnli_rand_6.csv": [],
+    "qqp_dir_0.csv": [
+    ],
+    "qqp_dir_1.csv": [
+        "biology",
+        "spag mistakes"
+    ],
+    "qqp_dir_10.csv": [
+        "countries",
+        "requests for opinions"
+    ],
+    "qqp_dir_11.csv": [
+    ],
+    "qqp_dir_12.csv": [
+        "analysis of media",
+        "work in the united states"
+    ],
+    "qqp_dir_13.csv": [
+        "begins with 'which' or 'what'"
+    ],
+    "qqp_dir_14.csv": [
+        "foreign languages",
+        "studies"
+    ],
+    "qqp_dir_15.csv": [
+        "spag mistakes"
+    ],
+    "qqp_dir_16.csv": [
+        "short sentences",
+        "highly specific details"
+    ],
+    "qqp_dir_17.csv": [
+        "numerical data"
+    ],
+    "qqp_dir_18.csv": [],
+    "qqp_dir_19.csv": [],
+    "qqp_dir_2.csv": [],
+    "qqp_dir_20.csv": [
+        "computer science",
+        "payments"
+    ],
+    "qqp_dir_21.csv": [
+        "short questions"
+    ],
+    "qqp_dir_22.csv": [
+        "means of transportation"
+    ],
+    "qqp_dir_23.csv": [],
+    "qqp_dir_24.csv": [
+        "the word 'or'",
+        "speculation"
+    ],
+    "qqp_dir_25.csv": [
+        "spag mistakes"
+    ],
+    "qqp_dir_26.csv": [
+        "chemistry",
+        "india"
+    ],
+    "qqp_dir_27.csv": [],
+    "qqp_dir_28.csv": [
+        "smartphones"
+    ],
+    "qqp_dir_29.csv": [],
+    "qqp_dir_3.csv": [
+        "sentences that start with the topic followed by ':'"
+    ],
+    "qqp_dir_30.csv": [
+        "movies and shows",
+        "topic stated before question"
+    ],
+    "qqp_dir_31.csv": [
+        "education"
+    ],
+    "qqp_dir_32.csv": [
+        "science",
+        "geopolitics"
+    ],
+    "qqp_dir_4.csv": [
+        "omitted words"
+    ],
+    "qqp_dir_5.csv": [
+        "spag mistakes"
+    ],
+    "qqp_dir_6.csv": [
+        "physics",
+        "philosophy",
+        "politics"
+    ],
+    "qqp_dir_7.csv": [
+        "language",
+        "numerical data"
+    ],
+    "qqp_dir_8.csv": [
+        "romantic relationships",
+        "broken technology"
+    ],
+    "qqp_dir_9.csv": [
+        "culture",
+        "legislation"
+    ],
+    "qqp_neur_107.csv": [
+        "proper nouns"
+    ],
+    "qqp_neur_187.csv": [
+        "spag mistakes",
+        "life"
+    ],
+    "qqp_neur_194.csv": [
+        "acronyms starting with 'ii'",
+        "india"
+    ],
+    "qqp_neur_206.csv": [
+    ],
+    "qqp_neur_21.csv": [],
+    "qqp_neur_234.csv": [
+        "mathematics",
+        "software"
+    ],
+    "qqp_neur_26.csv": [
+        "national sovereignty",
+        "laws and rules"
+    ],
+    "qqp_neur_310.csv": [
+        "neuroscience",
+        "comparisons and differences"
+    ],
+    "qqp_neur_319.csv": [],
+    "qqp_neur_352.csv": [
+        "superheroes"
+    ],
+    "qqp_neur_381.csv": [],
+    "qqp_neur_412.csv": [
+        "business",
+        "legal questions"
+    ],
+    "qqp_neur_418.csv": [
+        "omitted words",
+        "spag mistakes",
+        "irrelevant content"
+    ],
+    "qqp_neur_489.csv": [
+        "proper nouns"
+    ],
+    "qqp_neur_563.csv": [
+        "gender and sexuality"
+    ],
+    "qqp_neur_576.csv": [
+        "banking",
+        "astrophysics"
+    ],
+    "qqp_neur_617.csv": [
+        "relationships",
+        "body"
+    ],
+    "qqp_neur_626.csv": [
+        "negative emotions",
+        "young adult topics",
+        "romantic relationships"
+    ],
+    "qqp_neur_627.csv": [
+        "begins with 'if' or 'is'"
+    ],
+    "qqp_neur_641.csv": [
+        "ages"
+    ],
+    "qqp_neur_65.csv": [
+        "mathematics",
+        "science"
+    ],
+    "qqp_neur_655.csv": [
+    ],
+    "qqp_neur_661.csv": [],
+    "qqp_neur_709.csv": [],
+    "qqp_neur_712.csv": [
+        "countries"
+    ],
+    "qqp_rand_0.csv": [
+        "subjective questions"
+    ],
+    "qqp_rand_1.csv": [],
+    "qqp_rand_2.csv": [],
+    "qqp_rand_3.csv": [],
+    "qqp_rand_4.csv": [],
+    "qqp_rand_5.csv": [],
+    "qqp_rand_6.csv": [],
+    "qqp_rand_7.csv": [
+        "computers"
+    ],
+    "wiki_dir_0.csv": [
+        "statistical data",
+        "politics"
+    ],
+    "wiki_dir_1.csv": [
+        "competitions",
+        "immigration"
+    ],
+    "wiki_dir_10.csv": [
+        "military history"
+    ],
+    "wiki_dir_11.csv": [
+        "proper nouns",
+        "economics"
+    ],
+    "wiki_dir_12.csv": [],
+    "wiki_dir_13.csv": [
+        "nature"
+    ],
+    "wiki_dir_14.csv": [
+        "tourism"
+    ],
+    "wiki_dir_15.csv": [
+        "numerical data",
+        "biography"
+    ],
+    "wiki_dir_16.csv": [
+        "biography"
+    ],
+    "wiki_dir_17.csv": [
+        "biography"
+    ],
+    "wiki_dir_18.csv": [
+        "timekeeping in iraq",
+        "smartphones",
+        "media"
+    ],
+    "wiki_dir_19.csv": [
+        "tales"
+    ],
+    "wiki_dir_2.csv": [
+        "train travel"
+    ],
+    "wiki_dir_20.csv": [
+        "tennis scores",
+        "decision-making"
+    ],
+    "wiki_dir_21.csv": [
+        "proper nouns"
+    ],
+    "wiki_dir_22.csv": [
+        "foreign names",
+        "sporting events"
+    ],
+    "wiki_dir_23.csv": [
+        "numerical data"
+    ],
+    "wiki_dir_24.csv": [
+        "demographic data",
+        "enumeration"
+    ],
+    "wiki_dir_25.csv": [
+        "enumeration"
+    ],
+    "wiki_dir_26.csv": [
+        "religion"
+    ],
+    "wiki_dir_27.csv": [
+        "enumeration"
+    ],
+    "wiki_dir_28.csv": [
+        "sporting events"
+    ],
+    "wiki_dir_29.csv": [
+        "numbers",
+        "specified time"
+    ],
+    "wiki_dir_3.csv": [
+        "nature",
+        "enumeration"
+    ],
+    "wiki_dir_30.csv": [
+        "television",
+        "isbn numbers"
+    ],
+    "wiki_dir_31.csv": [
+        "numbers"
+    ],
+    "wiki_dir_32.csv": [
+        "names",
+        "music"
+    ],
+    "wiki_dir_4.csv": [
+        "census data"
+    ],
+    "wiki_dir_5.csv": [
+        "specified time",
+        "biography"
+    ],
+    "wiki_dir_6.csv": [
+        "philosophy",
+        "biology",
+        "psychology"
+    ],
+    "wiki_dir_7.csv": [
+        "competitions",
+        "numerical data"
+    ],
+    "wiki_dir_8.csv": [
+        "statements of fact",
+        "history"
+    ],
+    "wiki_dir_9.csv": [
+        "violence",
+        "reviews"
+    ],
+    "wiki_neur_107.csv": [
+        "parantheses",
+        "biography"
+    ],
+    "wiki_neur_187.csv": [
+        "quoted speech"
+    ],
+    "wiki_neur_194.csv": [
+        "history",
+        "religion",
+        "central-eastern europe"
+    ],
+    "wiki_neur_206.csv": [
+    ],
+    "wiki_neur_21.csv": [
+        "quoted speech"
+    ],
+    "wiki_neur_234.csv": [
+        "administrative territories",
+        "specified time",
+        "statements of fact"
+    ],
+    "wiki_neur_26.csv": [
+        "government",
+        "education"
+    ],
+    "wiki_neur_310.csv": [
+        "birth"
+    ],
+    "wiki_neur_319.csv": [
+        "biography"
+    ],
+    "wiki_neur_352.csv": [
+        "statistical data",
+        "statements of fact"
+    ],
+    "wiki_neur_381.csv": [
+        "numerical data",
+        "surveys"
+    ],
+    "wiki_neur_412.csv": [
+        "begins with quotation mark"
+    ],
+    "wiki_neur_418.csv": [
+        "sporting",
+        "measurements",
+        "biography"
+    ],
+    "wiki_neur_489.csv": [
+        "proper nouns",
+        "specified time"
+    ],
+    "wiki_neur_563.csv": [
+    ],
+    "wiki_neur_576.csv": [
+        "united states"
+    ],
+    "wiki_neur_617.csv": [
+        "wrestling",
+        "structure"
+    ],
+    "wiki_neur_626.csv": [
+        "nature",
+        "parentheses",
+        "exact values"
+    ],
+    "wiki_neur_627.csv": [
+        "enumeration",
+        "instructions"
+    ],
+    "wiki_neur_641.csv": [
+        "technology",
+        "structure",
+        "numerical data"
+    ],
+    "wiki_neur_65.csv": [
+    ],
+    "wiki_neur_655.csv": [
+        "competitions",
+        "communication"
+    ],
+    "wiki_neur_661.csv": [
+        "household size"
+    ],
+    "wiki_neur_709.csv": [
+        "descriptions",
+        "colors",
+        "nature",
+        "structure"
+    ],
+    "wiki_neur_712.csv": [
+        "specified time",
+        "sporting events",
+        "statements of fact"
+    ],
+    "wiki_rand_0.csv": [],
+    "wiki_rand_1.csv": [],
+    "wiki_rand_2.csv": [],
+    "wiki_rand_3.csv": [],
+    "wiki_rand_4.csv": [],
+    "wiki_rand_5.csv": [],
+    "wiki_rand_6.csv": []
+}
